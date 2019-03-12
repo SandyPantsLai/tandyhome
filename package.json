@@ -1,0 +1,21 @@
+{
+  "name": "tandyhome",
+  "version": "0.0.1",
+  "description": "A home organization and automation app",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "11.0.x",
+    "npm": "6.7.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heroku/tandyhome"
+  },
+  "author": "Sandy Lai"
+}
